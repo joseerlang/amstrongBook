@@ -1,2 +1,2 @@
-# amstrongBook
+# Armstrong Book
 Exercises from book
