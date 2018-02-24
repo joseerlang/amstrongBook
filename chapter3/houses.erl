@@ -7,5 +7,4 @@ start() ->
     HouseC= {house,{size,200},{rooms,1},{bathrooms,1},{floor,4},{lift,true}},
     HouseD= {house,{size,200},{rooms,4},{bathrooms,3},{floor,1},{lift,false}},
     Street =[HouseA,HouseB,HouseC,HouseD],
-    Street.    
 
